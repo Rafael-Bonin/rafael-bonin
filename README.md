@@ -1,9 +1,13 @@
 ## Salve!
-<div align="center">
+<table align="center">
+  <tr><td>
   <a href="https://github.com/Rafael-Bonin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafael-Bonin&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+   </td>
+    <td>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Bonin&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
+    </td?</tr>
+</table>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
