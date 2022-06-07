@@ -1,5 +1,5 @@
 <h3>Chega ai, fica a vontade 🐱</h3>
-<p> Atualmente Programador Front end e em constante evolução rumo ao Full Stack
+<p> Programador Jr. Full Stack focado em Back End sempre disposto para ensinar e aprender
 <table align="center">
   <tr><td>
   <a href="https://github.com/Rafael-Bonin">
